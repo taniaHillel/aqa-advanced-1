@@ -1,5 +1,5 @@
-let name1 = 'John'
-let name2 = 'Ann'
+const name1 = 'John'
+const name2 = 'Ann'
 const greeting = 'Hello'
 
 console.log(greeting + "," + " " + name1 + " and " + name2 + "!");
